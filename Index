@@ -1,0 +1,44 @@
+<head>
+    <title>Callisto's Portfolio</title>
+    <link rel="shortcut icon" href="Images/YTPFP.png" type="image/x-icon">
+    <link rel="stylesheet" href="Style">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <div class="logo">
+                <a href="Index">
+                    <img src="Images/YTPFP.png" alt="Could not load image" width="50" height="50">
+                </a>
+            </div>
+            <div class="main-menu">
+                <ul>
+                    <li>
+                        <a href="Index">Home</a>
+                    </li>
+                    <li>
+                        <a href="About">About Me</a>
+                    </li>
+                    <li>
+                        <a href="Projects">Projects</a>
+                    </li>
+                    <li>
+                        <a href="Blog">Devlogs, Blogs, And News</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <h1 style="text-align: center; font-size: 75px;"><strong>Callisto's Portfolio</strong></h1>
+    <p style="margin-left: 500px; margin-right: 500px;">
+        Hi! Welcome to my first website! Here, you can look at my about me, my projects that I'm working on, and more!
+    </p>
+    <div class="container">
+        <a class="btn" href="About">About me</a>
+        <a class="btn" href="Projects">Projects</a>
+        <a class="btn" href="Blog">Devlogs, News And Updates</a>
+    </div>
+    <p style="margin-left: 500px; margin-right: 500px;">
+        If you want to follow the development of any of my games, check out my <a href="https://gamejolt.com/@callisto_games" style="color: aqua; font-style: italic;" target="_blank">GameJolt account</a>!
+    </p>
+</body>

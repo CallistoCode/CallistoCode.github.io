@@ -1,0 +1,42 @@
+<head>
+    <title>Callisto's Portfolio</title>
+    <link rel="shortcut icon" href="Images/YTPFP.png" type="image/x-icon">
+    <link rel="stylesheet" href="Style">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <div class="logo">
+                <a href="Index">
+                    <img src="Images/YTPFP.png" alt="Could not load image" width="50" height="50">
+                </a>
+            </div>
+            <div class="main-menu">
+                <ul>
+                    <li>
+                        <a href="Index">Home</a>
+                    </li>
+                    <li>
+                        <a href="About">About Me</a>
+                    </li>
+                    <li>
+                        <a href="Projects">Projects</a>
+                    </li>
+                    <li>
+                        <a href="Blog">Devlogs, Blogs, And News</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <h1 style="text-align: center; font-size: 75px;"><strong>About Me</strong></h1>
+    <p style="margin-left: 500px; margin-right: 500px;">
+        Hello! I am Callisto, but some of you may know me as SordForAll or Sordgaming. I have been making games for a while now, and recently, I learned Godot and have started working on a few projects.
+        As of writing this, I just gave my game to a few playtesters to try it out, so while I wait for feedback I thought it might be a good idea to learn HTML and CSS to make my own website. I've been
+        interested in programming ever since I was little. I messed around with Scratch, made a few games, and made a Game Jolt account. None of them ever got popular, but I made a few friends along the way. Eventually I lost 
+        interest in Scratch after a few years and I wanted to make better games in a more advanced software, so I experimented with different programs such as Microworlds EX, Unity, Unreal Engine,
+        Game Maker, and Godot. I never really found any game engine that stuck with me, so I decided to forget about game development for a few years. During that time, I played Rec Room, and found interest in making Rec Room games. 
+        However, I loved watching youtubers such as Dani, Goodgis and pretty much any game dev youtuber, so I decided to get back into game development. I messed around with Unity and Unreal, but I never enjoyed using those programs. 
+        Then, I tried Godot again. I absolutely fell in love with Godot, and it is the game engine I'm using now.
+    </p>
+</body>

@@ -1,0 +1,45 @@
+<head>
+    <title>Callisto's Portfolio</title>
+    <link rel="shortcut icon" href="Images/YTPFP.png" type="image/x-icon">
+    <link rel="stylesheet" href="Style">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <div class="logo">
+                <a href="Index">
+                    <img src="Images/YTPFP.png" alt="Could not load image" width="50" height="50">
+                </a>
+            </div>
+            <div class="main-menu">
+                <ul>
+                    <li>
+                        <a href="index">Home</a>
+                    </li>
+                    <li>
+                        <a href="About">About Me</a>
+                    </li>
+                    <li>
+                        <a href="Projects">Projects</a>
+                    </li>
+                    <li>
+                        <a href="Blog">Devlogs, Blogs, And News</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <h1 style="text-align: center; font-size: 75px;"><strong>Devlogs, Blogs, And News</strong></h1>
+    <section style="margin-left: 500px; margin-right: 500px;">
+        <article class="post">
+            <h3>[Short announcement] Website has released!</h3>
+            <small>Written by Callisto on 28th of September, 2024</small>
+            <p>
+                I have decided to create my very own website to share more news about my games. I hope you enjoy!
+            </p>
+        </article>
+        <br>
+        <hr>
+        <br>
+    </section>
+</body>

@@ -1,0 +1,50 @@
+<head>
+    <title>Callisto's Portfolio</title>
+    <link rel="shortcut icon" href="Images/YTPFP.png" type="image/x-icon">
+    <link rel="stylesheet" href="Style">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="container">
+            <div class="logo">
+                <a href="Index">
+                    <img src="Images/YTPFP.png" alt="Could not load image" width="50" height="50">
+                </a>
+            </div>
+            <div class="main-menu">
+                <ul>
+                    <li>
+                        <a href="Index">Home</a>
+                    </li>
+                    <li>
+                        <a href="About">About Me</a>
+                    </li>
+                    <li>
+                        <a href="Projects">Projects</a>
+                    </li>
+                    <li>
+                        <a href="Blog">Devlogs, Blogs, And News</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <h1 style="text-align: center; font-size: 75px;"><strong>Projects</strong></h1>
+    <div class="container">
+        <a href="https://gamejolt.com/games/troglofauna/925520" target="_blank"><img src="Images/TrogloFaunaTNArtWitLogo.png" alt="Could not load image" width="426" height="240"></a>
+        <p>
+            {Thumbnail art by P.L Productions} Troglofauna is a horror game where you play as a miner exploring deep caves. Collect Minerals, hide from unidentified troglofauna, and survive.
+        </p>
+        <br>
+        <hr>
+        <br>
+        <a href="https://gamejolt.com/games/projectrogue/904940" target="_blank"><img src="Images/PRTN2 (2).png" alt="Could not load image" width="426" height="240"></a>
+        <p>
+            [Development on hold]{Thumbnail art by me} Project Rogue is a fast-paced boomer shooter inspired by games like DOOM(1993). Taking place in the future, the military has developed robots
+            to assist in combat, construction and transport, but something has cause the robots to go rogue.
+        </p>
+        <br>
+        <hr>
+        <br>
+    </div>
+</body>
